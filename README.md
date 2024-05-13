@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <h2 align="center">
+    <img src=https://github.com/Gronmi/Gronmi/assets/139635139/c7901bd6-3370-4491-bc89-f290e92afccb width=36px height=36px></img>
+    Hi, im Grongo!
+  </h2>
+  <p>
+    Im a roblox developer, and i like to make stuff on luau :D
+  </p>
+  <h4>
+    I know:
+  </h4>
+</p>
 
-<!--
-**Gronmi/Gronmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,robloxstudio" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>
+    And i partially know:
+</h4>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
