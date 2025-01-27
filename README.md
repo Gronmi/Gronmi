@@ -1,5 +1,5 @@
 
-<img align="left" width="75" height="75" src=https://github.com/Gronmi/Gronmi/assets/139635139/c7901bd6-3370-4491-bc89-f290e92afccb width=36px height=36px></img>
+<img align="left" width="55" height="55" src=https://github.com/Gronmi/Gronmi/assets/139635139/c7901bd6-3370-4491-bc89-f290e92afccb width=36px height=36px></img>
 # Hi, im Grongo!
 
 <img align="left" width="30" height="30" src="https://skillicons.dev/icons?i=lua" width=36px height=36px></img>
